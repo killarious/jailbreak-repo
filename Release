@@ -1,0 +1,8 @@
+Origin: Killarious Repository
+Label: Killarious Repository
+Suite: stable
+Version: 1.0
+Codename: jb-killarious
+Architectures: iphoneos-arm
+Components: main
+Description: Official Jailbreak repository of Killarious.
